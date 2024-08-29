@@ -41,7 +41,7 @@ Make sure you have the following installed on your system:
 
         # Install dependencies for the server
         cd server
-        npm install
+        npm install or npm install --legacy-peer-deps
         # or
         yarn install
 
