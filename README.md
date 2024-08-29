@@ -26,7 +26,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ajayjoji1723/certificate_designer.git
+   git clone https://github.com/Ajayjoji1723/cert_fullstack_designer.git 
    
 
 2.Install dependencies for both the client and server:
