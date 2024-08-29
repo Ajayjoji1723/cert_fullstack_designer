@@ -24,16 +24,15 @@ Make sure you have the following installed on your system:
 ## Installation
 
 1. Clone the repository:
-    client repository clone https://github.com/Ajayjoji1723/certifiacte_client.git
 
    ```bash
    git clone https://github.com/Ajayjoji1723/certificate_designer.git
-   cd certificate_designer
+   
 
 2.Install dependencies for both the client and server:
     # Install dependencies for the client
         cd client
-        npm install
+        npm install or npm install --legacy-peer-deps (for material ui kit)
         # or
         yarn install
 
